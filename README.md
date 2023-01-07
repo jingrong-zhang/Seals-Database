@@ -1,4 +1,4 @@
-# Seals_Database
+# Seals-Database
 
 **数据来源：上海图书馆开放数据，印章数据库**
 
